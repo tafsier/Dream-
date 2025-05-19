@@ -1,0 +1,12 @@
+
+    {
+      "notificationsPage": {
+        "title": "Notifications",
+        "noNotifications": "You have no new notifications.",
+        "markAsRead": "Mark as Read",
+        "markAllAsRead": "Mark All as Read",
+        "clearAll": "Clear All Notifications",
+        "errorLoading": "Error loading notifications."
+      }
+    }
+  

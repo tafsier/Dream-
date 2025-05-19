@@ -1,0 +1,30 @@
+
+    {
+      "contact": {
+        "pageTitle": "Contact Us",
+        "pageSubtitle": "Have questions or feedback? We'd love to hear from you.",
+        "formTitle": "Send Us a Message",
+        "formName": "Your Name",
+        "formNamePlaceholder": "Enter your name",
+        "formEmail": "Your Email",
+        "formEmailPlaceholder": "Enter your email",
+        "formSubject": "Subject",
+        "formSubjectPlaceholder": "What is your message about?",
+        "formMessage": "Your Message",
+        "formMessagePlaceholder": "Write your message here...",
+        "sendButton": "Send Message",
+        "sendingButton": "Sending...",
+        "successTitle": "Message Sent!",
+        "successMessage": "Thanks for reaching out. We'll get back to you soon.",
+        "errorTitle": "Sending Failed",
+        "errorMessage": "An error occurred. Please try again later.",
+        "contactInfoTitle": "Contact Information",
+        "emailTitle": "Email",
+        "emailContent": "support@example.com",
+        "phoneTitle": "Phone",
+        "phoneContent": "+1 234 567 8900",
+        "addressTitle": "Address",
+        "addressContent": "123 Dream Street, Vision City, Fantasy Land"
+      }
+    }
+  

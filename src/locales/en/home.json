@@ -1,0 +1,127 @@
+
+    {
+      "home": {
+        "heroTitleMain": "Dream Interpretation: Discover the Secrets of Your Vision",
+        "heroSubtitle": "Among the signs of prophethood: The righteous dream. Righteous dreams are a part of revelation and, for Prophet Muhammad (peace be upon him), represented the beginnings of prophethood. We are here to help you understand your dream through accurate interpretations derived from the books of Ibn Sirin and Al-Nabulsi, with complete confidentiality and respect.",
+        "heroCta": "Interpret My Dream Now",
+        "featuresSectionTitle": "Why Choose Dream Interpretation?",
+        "featureInstantTitle": "Instant AI Analysis",
+        "featureInstantDesc": "Receive quick interpretations using advanced AI technology.",
+        "featureExpertTitle": "Expert Human Interpreters",
+        "featureExpertDesc": "Opt for in-depth analysis from experienced dream interpreters.",
+        "featureSecureTitle": "Secure & Confidential",
+        "featureSecureDesc": "Your dreams and personal information are kept private and secure.",
+        "howItWorksTitle": "How It Works",
+        "stepSubmitTitle": "Submit Your Dream",
+        "stepSubmitDesc": "Provide details of your dream through our simple form.",
+        "stepAnalyzeTitle": "Choose Analysis Type",
+        "stepAnalyzeDesc": "Select between fast AI interpretation or detailed expert analysis.",
+        "stepReceiveTitle": "Receive Interpretation",
+        "stepReceiveDesc": "Get your dream interpretation and gain valuable insights.",
+        "testimonialsTitle": "What Our Users Say",
+        "testimonial1Name": "Ahmed M.",
+        "testimonial1Text": "The AI interpretation was surprisingly accurate and helped me understand a recurring dream.",
+        "testimonial1Role": "Satisfied User",
+        "testimonial1Alt": "Image of Ahmed M., a satisfied user of dream interpretation",
+        "testimonial2Name": "Fatima K.",
+        "testimonial2Text": "I opted for an expert interpretation, and the depth of analysis was incredible. Highly recommended!",
+        "testimonial2Role": "Insight Seeker",
+        "testimonial2Alt": "Image of Fatima K., an insight seeker benefiting from dream interpretation",
+        "testimonial3Quote": "Great service and easy to use. Got my interpretation quickly.",
+        "testimonial3Author": "Khalid S.",
+        "testimonial3Role": "New User",
+        "testimonial3Alt": "Image of Khalid S., a new user pleased with the dream interpretation service",
+        "pricingSectionTitle": "Choose Your Dream Interpretation Plan",
+        "viewAllPlans": "View All Plans",
+        "ctaTitle": "Ready to Understand Your Dreams?",
+        "ctaSubtitle": "Start your journey of self-discovery today.",
+        "ctaButton": "Get Started",
+        "propheticWisdomTitle": "Prophetic Wisdom on Dreams",
+        "hadithText1": "The Messenger of Allah (ﷺ) said: \"A good dream is from Allah, and a bad dream is from Satan. So if anyone of you has a dream which he dislikes, he should spit on his left side thrice and seek refuge with Allah from Satan, for it will not harm him.\"",
+        "hadithText2": "He also said: \"A true dream is one of the forty-six parts of Prophethood.\"",
+        "hadithText3": "He also said: \"Those of you who have the truest dreams are those who are most truthful in speech.\"",
+        "hadithSource": "(Sahih al-Bukhari)",
+        "hadithSourceMultiple": "(Sahih al-Bukhari & Sahih Muslim)",
+        "dreamTypesSection": {
+          "title": "Explore Dream Types",
+          "learnMore": "Learn More",
+          "viewAllButton": "View All Dream Types"
+        },
+        "propheticGuidance": {
+          "mainTitle": "Prophetic Guidance on Dreams and Visions",
+          "tocTitle": "Table of Contents",
+          "narratorLabel": "Narrator",
+          "sourceLabel": "Source",
+          "scholarLabel": "Scholar",
+          "section1": {
+            "title": "Virtue of Dreams & Prophet's Inquiry",
+            "content": [
+              {
+                "type": "hadith",
+                "text": "When the Prophet ﷺ finished the Morning Prayer, he would turn to them (his companions) and ask: \"Did any of you see a dream last night?\"",
+                "narrator": "Samura ibn Jundub",
+                "source": "Narrated by Al-Bukhari and Muslim"
+              }
+            ]
+          },
+          "section2": {
+            "title": "Virtue of Dream Interpretation Knowledge",
+            "content": [
+              {
+                "type": "quote",
+                "text": "This hadith indicates the honor and virtue of the science of dream interpretation, because the Prophet ﷺ used to ask about them to teach his companions how to interpret them. Allah praised Joseph (peace be upon him) by establishing him in the land and teaching him the interpretation of narrations, which has been interpreted as the interpretation of dreams. Joseph ﷺ was the most knowledgeable in that, as was our Prophet ﷺ. Abu Bakr Al-Siddiq was among the best interpreters, followed by Ibn Sirin and Sa'id ibn al-Musayyib.",
+                "author": "Imam Ibn Abd al-Barr",
+                "authorType": "scholar"
+              }
+            ]
+          },
+          "section3": {
+            "title": "Imam Nawawi's Directives on Dream Interpretation",
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "From An-Nawawi's commentary on the Hadith:"
+              },
+              {
+                "type": "list",
+                "items": [
+                  "It is recommended for the Imam to turn to his companions after the salam to ask them about dreams.",
+                  "It is preferable to hasten the interpretation in the morning because the mind is clear.",
+                  "It is permissible to discuss knowledge and dream interpretation after Fajr prayer.",
+                  "It is permissible to turn one's back to the Qibla for the purpose of knowledge or discussion after prayer."
+                ]
+              }
+            ]
+          },
+          "section4": {
+            "title": "Warning Against Lying About Dreams",
+            "content": [
+              {
+                "type": "hadith",
+                "text": "Whoever claims to have seen a dream he did not see will be ordered to tie two barley grains together, and he will never be able to do it...",
+                "narrator": "Ibn Abbas (may Allah be pleased with him)",
+                "source": "Narrated by Al-Bukhari"
+              },
+              {
+                "type": "hadith",
+                "text": "One of the greatest lies is to claim to have seen what one has not seen.",
+                "narrator": "Ibn Umar (may Allah be pleased with him)",
+                "source": "Narrated by Al-Bukhari"
+              }
+            ]
+          },
+          "section5": {
+            "title": "At-Tabari's Commentary on Lying About Dreams",
+            "content": [
+              {
+                "type": "quote",
+                "text": "The severe warning against lying about dreams is because it involves fabricating a lie against Allah, claiming He showed him what He did not. Lying against Allah is greater than lying against people. Even if lying in wakefulness might lead to false testimony in matters of life or property, lying in a dream is a direct fabrication against Allah Almighty.",
+                "author": "Imam At-Tabari",
+                "authorType": "scholar"
+              }
+            ]
+          }
+        }
+      }
+    }
+  

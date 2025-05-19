@@ -1,0 +1,27 @@
+
+    {
+      "profile": {
+        "title": "My Profile",
+        "subtitle": "View and manage your profile information.",
+        "fullName": "Full Name",
+        "email": "Email",
+        "avatar": "Avatar",
+        "uploadAvatar": "Upload new avatar",
+        "changeAvatar": "Change Avatar",
+        "avatarSizeLimit": "Max file size: 1MB. Allowed types: JPG, PNG, GIF.",
+        "updateProfileButton": "Update Profile",
+        "profileUpdatedSuccess": "Profile updated successfully!",
+        "profileUpdatedError": "Failed to update profile. Please try again.",
+        "subscriptionDetails": "Subscription Details",
+        "currentPlan": "Current Plan",
+        "status": "Status",
+        "validUntil": "Valid Until",
+        "interpretationsLeft": "Interpretations Left",
+        "charLimitPerDream": "Char Limit/Dream",
+        "manageSubscription": "Manage Subscription",
+        "upgradePlan": "Upgrade Plan",
+        "loadingProfile": "Loading profile...",
+        "errorLoadingProfile": "Error loading profile details."
+      }
+    }
+  

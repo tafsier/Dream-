@@ -1,0 +1,27 @@
+
+    {
+      "profile": {
+        "title": "ملفي الشخصي",
+        "subtitle": "عرض وإدارة معلوماتك الشخصية وتفاصيل اشتراكك.",
+        "fullName": "الاسم الكامل",
+        "email": "البريد الإلكتروني",
+        "avatar": "الصورة الرمزية",
+        "uploadAvatar": "تحميل صورة رمزية جديدة",
+        "changeAvatar": "تغيير الصورة الرمزية",
+        "avatarSizeLimit": "الحد الأقصى لحجم الملف: 1 ميغابايت. الأنواع المسموح بها: JPG, PNG, GIF.",
+        "updateProfileButton": "تحديث بيانات الملف الشخصي",
+        "profileUpdatedSuccess": "تم تحديث ملفك الشخصي بنجاح!",
+        "profileUpdatedError": "فشل تحديث الملف الشخصي. يرجى المحاولة مرة أخرى أو الاتصال بالدعم.",
+        "subscriptionDetails": "تفاصيل الاشتراك الحالي",
+        "currentPlan": "الباقة الحالية:",
+        "status": "حالة الاشتراك:",
+        "validUntil": "صالح حتى تاريخ:",
+        "interpretationsLeft": "عدد التفسيرات المتبقية:",
+        "charLimitPerDream": "حد الأحرف لكل رؤيا:",
+        "manageSubscription": "إدارة الاشتراك",
+        "upgradePlan": "ترقية الباقة الحالية",
+        "loadingProfile": "جاري تحميل بيانات الملف الشخصي، يرجى الانتظار...",
+        "errorLoadingProfile": "حدث خطأ أثناء تحميل تفاصيل الملف الشخصي. يرجى المحاولة مرة أخرى."
+      }
+    }
+  

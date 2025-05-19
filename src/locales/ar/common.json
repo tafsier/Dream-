@@ -1,0 +1,34 @@
+
+    {
+      "appName": "مفسر الرؤى",
+      "language": "ar",
+      "loading": "جاري التحميل، يرجى الانتظار...",
+      "underConstruction": "هذه الصفحة قيد الإنشاء والتطوير حاليًا.",
+      "featureComingSoon": "هذه الميزة ستتوفر قريبًا! نعمل على تطويرها.",
+      "errorToastTitle": "حدث خطأ",
+      "notProvided": "لم يتم توفيره",
+      "closeButton": "إغلاق النافذة",
+      "copiedButton": "تم النسخ بنجاح!",
+      "invalidDate": "تاريخ غير صالح",
+      "dashboard": {
+        "notAvailable": "غير متوفر",
+        "invalidDate": "تاريخ غير صالح"
+      },
+      "submitDream": {
+        "genderOptions": {
+            "male": "ذكر",
+            "female": "أنثى"
+        },
+        "maritalStatusOptions": {
+            "single": "أعزب/عزباء",
+            "married": "متزوج/متزوجة",
+            "divorced": "مطلق/مطلقة",
+            "widowed": "أرمل/أرملة"
+        },
+        "fullNameLabel": "الاسم الكامل",
+        "ageLabel": "العمر",
+        "genderLabel": "الجنس",
+        "maritalStatusLabel": "الحالة الاجتماعية"
+      }
+    }
+  

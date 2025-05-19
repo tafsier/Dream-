@@ -1,0 +1,41 @@
+
+    {
+      "pricing": {
+        "pageTitle": "Pricing Plans",
+        "headerTitle": "Flexible Pricing Plans to Meet Your Needs",
+        "headerSubtitle": "Choose the perfect plan for your journey into the world of dream interpretation.",
+        "selectPlan": "Select Plan",
+        "currentPlan": "Your Current Plan",
+        "mostPopular": "Most Popular",
+        "free": "Free",
+        "perMonth": "/ month",
+        "perYear": "/ year",
+        "days": "days",
+        "alwaysFree": "Always",
+        "currencySymbol": "KWD",
+        "interpretations": "Interpretations",
+        "unlimitedInterpretations": "Unlimited Interpretations",
+        "characterLimit": "Character limit per dream",
+        "unlimitedCharacters": "Unlimited",
+        "satisfactionGuaranteeTitle": "Your Satisfaction is Our Priority",
+        "satisfactionGuaranteeText": "We are confident in the quality of our services. If you are not completely satisfied with your interpretation, we offer a 7-day money-back guarantee for paid plans.",
+        "contactSupport": "Contact Support",
+        "errorTitle": "Error",
+        "stripeErrorTitle": "Stripe Error",
+        "stripeConfigError": "Stripe is not configured correctly. Please contact support.",
+        "stripeLoadError": "Stripe could not be loaded.",
+        "paymentErrorTitle": "Payment Error",
+        "paymentProcessError": "An error occurred during the payment process.",
+        "loadingPlans": "Loading plans...",
+        "noPlansAvailable": "No pricing plans available at the moment.",
+        "noPlansAvailableError": "No pricing plans available currently. The free plan may be displayed.",
+        "loginToChoosePlan": "Please log in to choose a plan.",
+        "freePlanSelectedInfo": "You are using the available free features. You can submit a dream now.",
+        "comingSoonTitle": "Coming Soon",
+        "planComingSoon": "The \"{planName}\" plan will be available for payment soon.",
+        "dbConfigError": "There seems to be a database configuration issue (missing column). Please contact support.",
+        "fetchError": "We couldn't load the pricing plans. Please try again later.",
+        "teaserSubtitle": "We offer a variety of plans to suit everyone, whether you're a new user or an in-depth dream researcher."
+      }
+    }
+  

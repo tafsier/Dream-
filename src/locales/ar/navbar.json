@@ -1,0 +1,24 @@
+
+    {
+      "navbar": {
+        "home": "الرئيسية",
+        "submitDream": "أرسل رؤياك",
+        "pricing": "الباقات",
+        "dreamTypes": "أنواع الرؤى",
+        "faq": "الأسئلة الشائعة",
+        "contact": "اتصل بنا",
+        "dashboard": "لوحة التحكم",
+        "login": "تسجيل الدخول",
+        "signUp": "إنشاء حساب",
+        "logout": "تسجيل الخروج",
+        "profile": "الملف الشخصي",
+        "settings": "الإعدادات",
+        "account": "الحساب",
+        "userGreeting": "مرحباً",
+        "toggleThemeAriaLabel": "تبديل السمة (فاتح/داكن)",
+        "toggleMenuAriaLabel": "فتح/إغلاق قائمة التنقل",
+        "arabic": "العربية",
+        "english": "English"
+      }
+    }
+  

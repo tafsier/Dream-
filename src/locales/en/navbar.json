@@ -1,0 +1,24 @@
+
+    {
+      "navbar": {
+        "home": "Home",
+        "submitDream": "Submit Dream",
+        "pricing": "Pricing",
+        "dreamTypes": "Dream Types",
+        "faq": "FAQ",
+        "contact": "Contact",
+        "dashboard": "Dashboard",
+        "login": "Login",
+        "signUp": "Sign Up",
+        "logout": "Logout",
+        "profile": "Profile",
+        "settings": "Settings",
+        "account": "Account",
+        "userGreeting": "Hello",
+        "toggleThemeAriaLabel": "Toggle theme",
+        "toggleMenuAriaLabel": "Toggle navigation menu",
+        "arabic": "العربية",
+        "english": "English"
+      }
+    }
+  

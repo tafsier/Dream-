@@ -1,0 +1,22 @@
+
+    {
+      "faq": {
+        "pageTitle": "Frequently Asked Questions",
+        "pageSubtitle": "Find answers to common questions about our dream interpretation service.",
+        "q1Title": "How accurate are the AI interpretations?",
+        "q1Answer": "Our AI interpretations are based on a vast database of dream symbols and patterns. While they provide quick insights, they may not capture the full personal context. For a deeper understanding, consider an expert interpretation.",
+        "q2Title": "How long does an expert interpretation take?",
+        "q2Answer": "Expert interpretations typically take 24-72 hours, depending on the complexity of the dream and interpreter availability. We strive to deliver them as quickly as possible.",
+        "q3Title": "Is my personal information and dream content kept confidential?",
+        "q3Answer": "Absolutely. We prioritize your privacy and security. All your data is encrypted and handled with the utmost confidentiality. Please refer to our Privacy Policy for more details.",
+        "q4Title": "Can I submit dreams in any language?",
+        "q4Answer": "Currently, our primary supported languages are English and Arabic. While the AI may handle other languages to some extent, for best results, please submit your dreams in one of these two languages.",
+        "q5Title": "What if I'm not satisfied with my interpretation?",
+        "q5Answer": "Your satisfaction is important to us. If you have concerns about your interpretation, please contact our support team, and we'll do our best to address your issue.",
+        "q6": "Can all types of dreams be interpreted?",
+        "a6": "Yes, we strive to interpret all types of dreams, whether they are true visions, dreams from Satan, or self-talk. However, the depth and significance of the interpretation may vary based on the dream type.",
+        "contactUsPrompt": "Still have questions?",
+        "contactUsButton": "Contact Us"
+      }
+    }
+  

@@ -1,0 +1,23 @@
+
+    {
+      "footer": {
+        "description": "Get accurate and insightful interpretations for your dreams. Understand hidden messages and symbols.",
+        "quickLinks": "Quick Links",
+        "legal": "Legal",
+        "privacyPolicy": "Privacy Policy",
+        "termsOfService": "Terms of Service",
+        "contactUs": "Contact Us",
+        "rightsReserved": "© {year} Dream Interpretation. All rights reserved.",
+        "navAbout": "About Us",
+        "navContact": "Contact Us",
+        "navFAQ": "FAQ",
+        "navPricing": "Pricing",
+        "navDreamTypes": "Dream Types",
+        "navSubmitDream": "Submit Dream",
+        "newsletterTitle": "Newsletter",
+        "newsletterDesc": "Subscribe for latest updates and offers.",
+        "emailPlaceholder": "Your email address",
+        "subscribeButton": "Subscribe"
+      }
+    }
+  

@@ -1,0 +1,24 @@
+
+    {
+      "settings": {
+        "title": "إعدادات الحساب والتطبيق",
+        "subtitle": "إدارة إعدادات التطبيق وتفضيلاتك الشخصية.",
+        "languagePreference": "تفضيل اللغة",
+        "selectLanguage": "اختر لغة الواجهة",
+        "english": "English (الإنجليزية)",
+        "arabic": "العربية (Arabic)",
+        "themePreference": "تفضيل المظهر (السمة)",
+        "lightMode": "الوضع الفاتح",
+        "darkMode": "الوضع الداكن",
+        "systemMode": "افتراضي النظام (اتبع إعدادات جهازك)",
+        "notifications": "إعدادات الإشعارات",
+        "emailNotifications": "تفعيل إشعارات البريد الإلكتروني",
+        "emailNotificationsDesc": "استقبل التحديثات الهامة وتنبيهات جاهزية التفسير عبر بريدك الإلكتروني.",
+        "inAppNotifications": "تفعيل الإشعارات داخل التطبيق",
+        "inAppNotificationsDesc": "عرض الإشعارات والتنبيهات مباشرة داخل واجهة التطبيق.",
+        "saveSettingsButton": "حفظ الإعدادات المطبقة",
+        "settingsSavedSuccess": "تم حفظ الإعدادات بنجاح!",
+        "settingsSavedError": "فشل حفظ الإعدادات. يرجى المحاولة مرة أخرى أو الاتصال بالدعم الفني."
+      }
+    }
+  

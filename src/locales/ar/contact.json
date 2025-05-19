@@ -1,0 +1,30 @@
+
+    {
+      "contact": {
+        "pageTitle": "تواصل معنا",
+        "pageSubtitle": "هل لديك أي أسئلة أو ملاحظات؟ فريقنا سعيد بالاستماع إليك ومساعدتك.",
+        "formTitle": "أرسل لنا رسالة مباشرة",
+        "formName": "اسمك الكريم",
+        "formNamePlaceholder": "أدخل اسمك الكامل هنا",
+        "formEmail": "بريدك الإلكتروني للتواصل",
+        "formEmailPlaceholder": "أدخل عنوان بريدك الإلكتروني",
+        "formSubject": "موضوع الرسالة",
+        "formSubjectPlaceholder": "حدد موضوع رسالتك بإيجاز",
+        "formMessage": "نص رسالتك",
+        "formMessagePlaceholder": "اكتب تفاصيل رسالتك هنا...",
+        "sendButton": "إرسال الرسالة الآن",
+        "sendingButton": "جاري إرسال الرسالة...",
+        "successTitle": "تم إرسال رسالتك بنجاح!",
+        "successMessage": "شكرًا لتواصلك معنا. سيقوم فريقنا بمراجعة رسالتك والرد عليك في أقرب وقت ممكن.",
+        "errorTitle": "فشل في إرسال الرسالة",
+        "errorMessage": "عذرًا، حدث خطأ أثناء محاولة إرسال رسالتك. يرجى المحاولة مرة أخرى لاحقًا أو استخدام إحدى وسائل الاتصال الأخرى الموضحة.",
+        "contactInfoTitle": "معلومات الاتصال الأخرى",
+        "emailTitle": "البريد الإلكتروني للدعم",
+        "emailContent": "support@mafsarrorya.com",
+        "phoneTitle": "رقم الهاتف (اختياري)",
+        "phoneContent": "+966 55 123 4567",
+        "addressTitle": "عنوان المكتب (إن وجد)",
+        "addressContent": "123 شارع الأحلام، مدينة الرؤى، المملكة العربية السعودية"
+      }
+    }
+  

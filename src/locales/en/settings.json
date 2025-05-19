@@ -1,0 +1,24 @@
+
+    {
+      "settings": {
+        "title": "Settings",
+        "subtitle": "Manage your application settings.",
+        "languagePreference": "Language Preference",
+        "selectLanguage": "Select Language",
+        "english": "English",
+        "arabic": "العربية",
+        "themePreference": "Theme Preference",
+        "lightMode": "Light Mode",
+        "darkMode": "Dark Mode",
+        "systemMode": "System Default",
+        "notifications": "Notifications",
+        "emailNotifications": "Email Notifications",
+        "emailNotificationsDesc": "Receive important updates and interpretation alerts via email.",
+        "inAppNotifications": "In-App Notifications",
+        "inAppNotificationsDesc": "View notifications directly within the application.",
+        "saveSettingsButton": "Save Settings",
+        "settingsSavedSuccess": "Settings saved successfully!",
+        "settingsSavedError": "Failed to save settings. Please try again."
+      }
+    }
+  

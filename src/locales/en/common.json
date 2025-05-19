@@ -1,0 +1,34 @@
+
+    {
+      "appName": "Dream Interpretation",
+      "language": "en",
+      "loading": "Loading...",
+      "underConstruction": "Under Construction",
+      "featureComingSoon": "This feature is coming soon!",
+      "errorToastTitle": "Error",
+      "notProvided": "Not Provided",
+      "closeButton": "Close",
+      "copiedButton": "Copied!",
+      "invalidDate": "Invalid Date",
+      "dashboard": {
+        "notAvailable": "N/A",
+        "invalidDate": "Invalid Date"
+      },
+      "submitDream": {
+        "genderOptions": {
+            "male": "Male",
+            "female": "Female"
+        },
+        "maritalStatusOptions": {
+            "single": "Single",
+            "married": "Married",
+            "divorced": "Divorced",
+            "widowed": "Widowed"
+        },
+        "fullNameLabel": "Full Name",
+        "ageLabel": "Age",
+        "genderLabel": "Gender",
+        "maritalStatusLabel": "Marital Status"
+      }
+    }
+  

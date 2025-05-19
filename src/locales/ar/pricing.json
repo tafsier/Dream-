@@ -1,0 +1,41 @@
+
+    {
+      "pricing": {
+        "pageTitle": "باقات الأسعار",
+        "headerTitle": "باقات أسعار مرنة لتلبية احتياجاتك",
+        "headerSubtitle": "اختر الخطة المثالية لرحلتك في عالم تفسير الرؤى والأحلام.",
+        "selectPlan": "اختر الخطة",
+        "currentPlan": "خطتك الحالية",
+        "mostPopular": "الأكثر شيوعًا",
+        "free": "مجاناً",
+        "perMonth": "/ شهر",
+        "perYear": "/ سنة",
+        "days": "أيام",
+        "alwaysFree": "دائماً",
+        "currencySymbol": "د.ك",
+        "interpretations": "تفسيرات",
+        "unlimitedInterpretations": "تفسيرات غير محدودة",
+        "characterLimit": "حد الأحرف لكل رؤيا",
+        "unlimitedCharacters": "غير محدود",
+        "satisfactionGuaranteeTitle": "ضمان رضاك هو أولويتنا",
+        "satisfactionGuaranteeText": "نحن واثقون من جودة خدماتنا. إذا لم تكن راضيًا تمامًا عن تفسيرك، فإننا نقدم ضمان استعادة الأموال خلال 7 أيام للباقات المدفوعة.",
+        "contactSupport": "اتصل بالدعم",
+        "errorTitle": "خطأ",
+        "stripeErrorTitle": "خطأ في Stripe",
+        "stripeConfigError": "لم يتم تحميل Stripe بشكل صحيح. يرجى الاتصال بالدعم.",
+        "stripeLoadError": "لم يتم تحميل Stripe بشكل صحيح.",
+        "paymentErrorTitle": "خطأ في الدفع",
+        "paymentProcessError": "حدث خطأ أثناء عملية الدفع.",
+        "loadingPlans": "جارٍ تحميل الباقات...",
+        "noPlansAvailable": "لا توجد باقات أسعار متاحة حاليًا.",
+        "noPlansAvailableError": "لا توجد باقات أسعار متاحة حاليًا. قد يتم عرض الباقة المجانية.",
+        "loginToChoosePlan": "الرجاء تسجيل الدخول لاختيار خطة.",
+        "freePlanSelectedInfo": "أنت تستخدم الميزات المجانية المتاحة. يمكنك إرسال رؤيا الآن.",
+        "comingSoonTitle": "قريباً",
+        "planComingSoon": "خطة \"{planName}\" ستكون متاحة قريباً للدفع.",
+        "dbConfigError": "يبدو أن هناك مشكلة في إعدادات قاعدة البيانات (عمود مفقود). يرجى الاتصال بالدعم.",
+        "fetchError": "لم نتمكن من تحميل خطط الأسعار. يرجى المحاولة مرة أخرى لاحقًا.",
+        "teaserSubtitle": "نقدم مجموعة متنوعة من الباقات لتناسب الجميع، سواء كنت مستخدمًا جديدًا أو باحثًا متعمقًا في عالم الأحلام."
+      }
+    }
+  
