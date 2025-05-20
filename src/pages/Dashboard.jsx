@@ -71,20 +71,7 @@ const Dashboard = () => {
   animate={{ opacity: 1, y: 0 }}
   transition={{ duration: 0.3 }}
 >
-  {(() => {
-    switch (activeTab) {
-      case 'dreams':
-        return <DreamListSection />;
-      case 'profile':
-        return <ProfileSection />;
-      case 'settings':
-        return <SettingsSection />;
-      case 'notifications':
-        return <NotificationsSection />;
-      default:
-        return <DreamListSection />;
-    }
-  })()}
+  
 </motion.div>
     </div>
   );
