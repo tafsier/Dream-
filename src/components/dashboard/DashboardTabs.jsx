@@ -37,17 +37,15 @@ import React from 'react';
         </TabsContent>
     );
 
-    const DashboardTabs = () => {
-      return (
-        <Tabs defaultValue="dreams" className="w-full" dir="rtl">
-          <DashboardTabsList />
-          {TABS_CONFIG.map(tab => (
-            <DashboardTabContent key={tab.value} value={tab.value}>
-              {tab.component}
-            </DashboardTabContent>
-          ))}
-        </Tabs>
-      );
-    };
-
-    export default DashboardTabs;
+    const DashboardTabs = ({ tabs, activeTab, onTabChange }) => {
+  return (
+    <Tabs value={activeTab} onValueChange={onTabChange} className="w-full" dir="rtl">
+      <DashboardTabList tabs={tabs} />
+      {tabs.map(tab => (
+        <DashboardTabContent key={tab.value} value={tab.value}>
+          {tab.component}
+        </DashboardTabContent>
+      ))}
+    </Tabs>
+  );
+};
