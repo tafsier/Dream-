@@ -50,7 +50,7 @@ const Dashboard = () => {
   if (!user?.id || !isInitialSessionLoadComplete) {
     return (
       <div className="flex justify-center items-center min-h-screen">
-        <p className="text-lg text-gray-700">{t('loading.userData') || 'جارٍ تحميل بيانات المستخدم...'}</p >
+        <p className="text-lg text-gray-700">{t('loading.userData') || 'جارٍ تحميل بيانات المستخدم...'}</p>
       </div>
     );
   }
