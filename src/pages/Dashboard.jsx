@@ -48,7 +48,7 @@ const Dashboard = () => {
     }
   };
 
-  if (!user?.id || !isInitialSessionLoadComplete) {
+  if (!user?.id) {
   return (
     <div className="flex justify-center items-center min-h-screen">
       <p className="text-lg text-gray-700">جارٍ تحميل بيانات المستخدم...</p >
