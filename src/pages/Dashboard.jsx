@@ -12,10 +12,9 @@ import { useLanguage } from '@/contexts/useLanguage';
 import { useDashboardTabs } from '@/hooks/useDashboardTabs';
 
 const Dashboard = () => {
-  const { user } = useAuth();
+  const { user, isInitialSessionLoadComplete } = useAuth();
   const { t } = useLanguage();
   const [searchParams, setSearchParams] = useSearchParams();
-
   const { tabsConfig, activeTab, setActiveTab } = useDashboardTabs(t);
 
   useEffect(() => {
@@ -23,7 +22,7 @@ const Dashboard = () => {
     if (tabFromUrl && tabsConfig.find(t => t.id === tabFromUrl)) {
       setActiveTab(tabFromUrl);
     } else if (tabsConfig.length > 0) {
-      setActiveTab(tabsConfig[0].id); 
+      setActiveTab(tabsConfig[0].id);
     }
   }, [searchParams, tabsConfig, setActiveTab]);
 
@@ -48,22 +47,22 @@ const Dashboard = () => {
     }
   };
 
-  if (!user?.id) {
-  return (
-    <div className="flex justify-center items-center min-h-screen">
-      <p className="text-lg text-gray-700">جارٍ تحميل بيانات المستخدم...</p >
-    </div>
-  );
-}
+  if (!user?.id || !isInitialSessionLoadComplete) {
+    return (
+      <div className="flex justify-center items-center min-h-screen">
+        <p className="text-lg text-gray-700">{t('loading.userData') || 'جارٍ تحميل بيانات المستخدم...'}</p >
+      </div>
+    );
+  }
 
   return (
     <div className="min-h-screen space-y-8 py-8">
       <DashboardHeader />
       <DashboardTabs
-  tabs={tabsConfig}
-  activeTab={activeTab}
-  onTabChange={setActiveTab}
-/>
+        tabs={tabsConfig}
+        activeTab={activeTab}
+        onTabChange={setActiveTab}
+      />
       <motion.div
         key={activeTab}
         initial={{ opacity: 0, y: 10 }}
