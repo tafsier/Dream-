@@ -47,13 +47,15 @@ const Dashboard = () => {
     }
   };
 
-  if (!user?.id || !isInitialSessionLoadComplete) {
-    return (
-      <div className="flex justify-center items-center min-h-screen">
-        <p className="text-lg text-gray-700">{t('loading.userData') || 'جارٍ تحميل بيانات المستخدم...'}</p>
-      </div>
-    );
-  }
+  if (!user?.id) {
+  return (
+    <div className="flex justify-center items-center min-h-screen">
+      <p className="text-lg text-gray-700">
+        {t('loading.userData') || 'جارٍ تحميل بيانات المستخدم...'}
+      </p >
+    </div>
+  );
+}
 
   return (
     <div className="min-h-screen space-y-8 py-8">
@@ -64,15 +66,27 @@ const Dashboard = () => {
         onTabChange={setActiveTab}
       />
       <motion.div
-        key={activeTab}
-        initial={{ opacity: 0, y: 10 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ duration: 0.3 }}
-      >
-        {renderTabContent()}
-      </motion.div>
+  key={activeTab}
+  initial={{ opacity: 0, y: 10 }}
+  animate={{ opacity: 1, y: 0 }}
+  transition={{ duration: 0.3 }}
+>
+  {(() => {
+    switch (activeTab) {
+      case 'dreams':
+        return <DreamListSection />;
+      case 'profile':
+        return <ProfileSection />;
+      case 'settings':
+        return <SettingsSection />;
+      case 'notifications':
+        return <NotificationsSection />;
+      default:
+        return <DreamListSection />;
+    }
+  })()}
+</motion.div>
     </div>
   );
 };
-
 export default Dashboard;
