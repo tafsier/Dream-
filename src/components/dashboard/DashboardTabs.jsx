@@ -49,3 +49,4 @@ import React from 'react';
     </Tabs>
   );
 };
+export default DashboardTabs;
